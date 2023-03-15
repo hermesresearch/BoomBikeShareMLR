@@ -1,4 +1,4 @@
-# #################### Multiple Linear Regression For BoomBike Share
+#Multiple Linear Regression For BoomBike Share#
 
 Building a multiple linear regression model to predict the demand for shared bikes for a US bike-sharing provider, BoomBikes. The data used in this project consists of daily bike demands based on various factors like weather, season, and other variables.
 
@@ -11,9 +11,9 @@ The 'yr' column has two values, 0 and 1, representing the years 2018 and 2019, r
 The target variable for this project is the 'cnt' variable, which indicates the total number of bike rentals, including both casual and registered users.
 
 
-## Table of Contents
+#Table of Contents
 
-#########general-information########
+#general-information#
 
 Multiple linear regression is a statistical method used to model the relationship between a dependent variable and multiple independent variables. In this project, we will use multiple linear regression to predict the demand for shared bikes based on various factors like weather, season, and other variables.
 
@@ -23,7 +23,7 @@ We will also perform feature selection to identify the most important variables 
 
 Overall, the multiple linear regression model for BoomBike Share aims to accurately predict the demand for shared bikes based on various factors, which can help the company make informed decisions about bike inventory and marketing strategies.
 
-* ###################### technologies-used ##########################
+* ### technologies-used ###
 
 The multiple linear regression model for BoomBike Share was built using various technologies and libraries in Python. The following technologies were used:
 
